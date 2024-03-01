@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm small fish <img src="https://komarev.com/ghpvc/?username=itiddler&label=Profile%20views&color=0e75b6&style=flat" alt="itiddler" /> </h1>
+<h1 align="center">Hi 👋, I'm iTiddler <sup>little fish</sup> <img src="https://komarev.com/ghpvc/?username=itiddler&label=Profile%20views&color=0e75b6&style=flat" alt="itiddler" /> </h1>
 <h3 align="center">A passionate backend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
